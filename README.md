@@ -1,2 +1,2 @@
-# Y1-PhysComp-Project1
+# Maze Game
 Physical Computing Project 1
