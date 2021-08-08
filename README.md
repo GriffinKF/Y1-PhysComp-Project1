@@ -1,2 +1,2 @@
 # Maze Game
-Physical Computing Project 1
+Maze Game
